@@ -1,6 +1,10 @@
 <html>
   <body>
     <h1>Minha Pagina HTML</h1>
+<<<<<<< HEAD
       <p> outro conteúdo add</p>
+=======
+    <h2>Alteracao na Minha Pagina HTML</h>
+>>>>>>> altconf
   </body>
 </html>
