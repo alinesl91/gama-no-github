@@ -4,7 +4,8 @@
 <<<<<<< HEAD
       <p> outro conteúdo add</p>
 =======
-    <h2>Alteracao na Minha Pagina HTML</h>
+    <h2>Alteracao na Minha Pagina HTML</h2>
+    <h3> Adicionando conteudo a partir do github</h3>
 >>>>>>> altconf
   </body>
 </html>
